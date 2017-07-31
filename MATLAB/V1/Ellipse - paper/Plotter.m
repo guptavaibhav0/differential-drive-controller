@@ -43,7 +43,7 @@ if (toDisplay == 1)
 end
 close(gcf);
 
-%% Linear Velocity Tracking
+%% Velocity Tracking
 epsFile = 'Figs\velocity-tracking.eps';
 tiffFile = 'Figs\velocity-tracking.tiff';
 xLabel = 'Time (in sec)';
